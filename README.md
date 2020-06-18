@@ -1,6 +1,4 @@
-# The G-Force 
-
-## 2020 Fam Jam Series
+# 2020 Fam Jam Series
 
 Each of the following games was created in a single Saturday, the whole family
 working together on it.
