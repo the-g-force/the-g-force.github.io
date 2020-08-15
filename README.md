@@ -3,6 +3,7 @@
 Each of the following games was created in a single Saturday, the whole family
 working together on it.
 
+- August: [_Hangry Birds_](https://the-g-force.github.io/FamJam-August2020/) ([Source](https://github.com/the-g-force/FamJam-August2020))
 - July: [_Forest Runner_](https://the-g-force.github.io/FamJam-July2020/) ([Source](https://github.com/the-g-force/FamJam-July2020))
 - June: [_Get the Food_](https://the-g-force.github.io/FamJam-June2020/) ([Source](https://github.com/the-g-force/FamJam-June2020))
   ([Blog](http://paulgestwicki.blogspot.com/2020/06/fam-jam-4-get-food-and-few-words-about-3.html))
