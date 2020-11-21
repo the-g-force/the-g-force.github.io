@@ -3,6 +3,7 @@
 Each of the following games was created in a single Saturday, the whole family
 working together on it.
 
+- November: [_Earth Protector_](https://the-g-force.github.io/FamJam-November2020/) ([Source](https://github.com/the-g-force/FamJam-November2020))
 - October: [_The Flying Planes_](https://the-g-force.github.io/FamJam-October2020/) ([Source](https://github.com/the-g-force/FamJam-October2020))
 - September: [_The Amazing Squirrelini Brothers Prepare for Winter_](https://the-g-force.github.io/FamJam-September2020) ([Source](https://github.com/the-g-force/FamJam-September2020))
 - August: [_Hangry Birds_](https://the-g-force.github.io/FamJam-August2020/) ([Source](https://github.com/the-g-force/FamJam-August2020))
