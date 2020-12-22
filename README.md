@@ -3,7 +3,7 @@
 Each of the following games was created in a single Saturday, the whole family
 working together on it.
 
-- December: [_Find the Ornaments_](https://the-g-force.github.io/FamJam-December2020/) ([Source](https://github.com/the-g-force/FamJam-December2020))
+- December: [_Find the Ornaments_](https://the-g-force.github.io/FamJam-December2020/) ([Source](https://github.com/the-g-force/FamJam-December2020)) ([Blog](http://paulgestwicki.blogspot.com/2020/12/find-ornaments-thoughts-about-december.html))
 - November: [_Earth Protector_](https://the-g-force.github.io/FamJam-November2020/) ([Source](https://github.com/the-g-force/FamJam-November2020))
 - October: [_The Flying Planes_](https://the-g-force.github.io/FamJam-October2020/) ([Source](https://github.com/the-g-force/FamJam-October2020))
 - September: [_The Amazing Squirrelini Brothers Prepare for Winter_](https://the-g-force.github.io/FamJam-September2020) ([Source](https://github.com/the-g-force/FamJam-September2020))
