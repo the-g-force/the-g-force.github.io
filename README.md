@@ -1,7 +1,13 @@
-# 2020 Fam Jam Series
+# Fam Jam Games
 
-Each of the following games was created in a single Saturday, the whole family
+Each of the following games was created in a single Saturday with the whole family
 working together on it.
+
+## 2021
+
+- January: [_Commander Quacks Saves the Day_](https://the-g-force.github.io/FamJam-January2021/) ([Source](https://github.com/the-g-force/FamJam-January2021))
+
+## 2020 
 
 - December: [_Find the Ornaments_](https://the-g-force.github.io/FamJam-December2020/) ([Source](https://github.com/the-g-force/FamJam-December2020)) ([Blog](http://paulgestwicki.blogspot.com/2020/12/find-ornaments-thoughts-about-december.html))
 - November: [_Earth Protector_](https://the-g-force.github.io/FamJam-November2020/) ([Source](https://github.com/the-g-force/FamJam-November2020))
