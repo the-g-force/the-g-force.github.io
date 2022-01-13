@@ -12,21 +12,21 @@ This was a one-day jam project in the same spirit as <a href="#famjams">our year
 
 ## R&D Games
 
-From March 2020 through March 2021, we created one game each
-day in a &ldquo;Fam Jam&rdquo; format, as described
-[in this GodotCon presentation](https://youtu.be/Nt825GaG04Y).
-After March 2021, we decided to change the format to allow
-more time for both research and creative endeavors.
+Unlike our Fam Jam games, the idea behind R&D games is that we would spend a little more time
+collecting and curating information to put into a game. So far, we have only made one,
+where we spent a few hours together on it across several days, resulting in this game
+about local wildflowers.
 
 - April 2021: [_Wildflower, What What?_](https://the-g-force.github.io/2021-April/) ([Source](https://github.com/the-g-force/2021-April))
 
 
 
 <a name="famjam">
-# Fam Jam Games
+# A Year of Fam Jams
 
 Each of the following games was created in a single Saturday with the whole family
-working together on it.
+working together on it. Interested readers are welcome to check out
+[this video from GodotCon 2021 about the project](https://youtu.be/Nt825GaG04Y).
 
 - March 2021: [_Turretle 2000_](https://the-g-force.github.io/FamJam-March2021) ([Source](https://github.com/the-g-force/FamJam-March2021))
 
