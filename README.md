@@ -1,4 +1,16 @@
-# R&D Games
+# Games by The G-Force
+
+This page collects the various videogames created by the G-Force. They are presented
+in reverse-chronological order, so the newest games are first.
+
+## Jan 1, 2022 Fam Jam
+
+We started the new year by creating [_Salvage Scavenger_](https://the-g-force.github.io/2022-January/).
+This was a one-day jam project in the same spirit as <a href="#famjams">our year of Fam Jams</a>.
+
+
+
+## R&D Games
 
 From March 2020 through March 2021, we created one game each
 day in a &ldquo;Fam Jam&rdquo; format, as described
@@ -10,6 +22,7 @@ more time for both research and creative endeavors.
 
 
 
+<a name="famjam">
 # Fam Jam Games
 
 Each of the following games was created in a single Saturday with the whole family
