@@ -3,6 +3,10 @@
 This page collects the various videogames created by the G-Force. They are presented
 in reverse-chronological order, so the newest games are first.
 
+## Dec 30, 2023 Fam Jam
+
+After almost two years off, we returned to famjamming with [Clown Town](https://github.com/the-g-force/ClownTown)!
+
 ## Jan 1, 2022 Fam Jam
 
 We started the new year by creating [_Salvage Scavenger_](https://the-g-force.github.io/2022-January/).
