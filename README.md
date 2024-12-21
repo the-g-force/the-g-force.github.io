@@ -3,6 +3,10 @@
 This page collects the various videogames created by the G-Force. They are presented
 in reverse-chronological order, so the newest games are first.
 
+## Dec 24, 2024 Fam Jam
+
+Another winter break, another Fam Jam! Check out [Happy Camper](https://the-g-force.github.io/happy-camper/)!
+
 ## Dec 30, 2023 Fam Jam
 
 After almost two years off, we returned to famjamming with [Clown Town](https://github.com/the-g-force/ClownTown)!
